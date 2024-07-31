@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Alice Blue */
+    color: #333; /* Dark Gray */
+}
+
+header {
+    background-color: #4682b4; /* Steel Blue */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #4682b4; /* Steel Blue */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #4682b4; /* Steel Blue */
+}
+
+a {
+    color: #4682b4; /* Steel Blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
